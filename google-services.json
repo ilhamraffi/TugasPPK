@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86829940698",
+    "project_id": "ppk-tugas3",
+    "storage_bucket": "ppk-tugas3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86829940698:android:cf82b0a11f9df4b2c3cae3",
+        "android_client_info": {
+          "package_name": "com.anonymous.tugasppk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86829940698-h2uem6rgrv3moraerbahm4o0l3e2aj6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_xdnzjtmMUvilpIbT8WbH5huKb8yhwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86829940698-h2uem6rgrv3moraerbahm4o0l3e2aj6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
